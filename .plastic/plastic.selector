@@ -1,0 +1,4 @@
+repository "MOBA@TerryPlay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
